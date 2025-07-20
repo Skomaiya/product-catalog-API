@@ -29,19 +29,19 @@ A RESTful API built with **Node.js**, **Express.js**, and **MongoDB** that allow
 
 - Clone the repository
 git clone [https://github.com/yourusername/product-catalog-api.git](https://github.com/Skomaiya/product-catalog-API.git)
-cd product-catalog-api
+(cd product-catalog-api)
 
 - Install dependencies
-npm install
+(npm install)
 
 - Create a .env file with the following variables
-MONGODB_URI=<your-mongodb-url>
+(MONGODB_URI=<your-mongodb-url>
 PORT=5000
-JWT_SECRET=<your-secret-key>
+JWT_SECRET=<your-secret-key>)
 
 
 - Start the server
-npm run dev
+(npm run dev)
 
 ---
 
