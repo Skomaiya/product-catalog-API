@@ -28,7 +28,7 @@ A RESTful API built with **Node.js**, **Express.js**, and **MongoDB** that allow
 ### Installation
 
 - Clone the repository
-git clone [https://github.com/yourusername/product-catalog-api.git](https://github.com/Skomaiya/product-catalog-API.git)
+git clone [repo link](https://github.com/Skomaiya/product-catalog-API.git)
 (cd product-catalog-api)
 
 - Install dependencies
